@@ -4,7 +4,7 @@
 <p align='Middle'><a href='https://t.me/Mr_Agora'><img src='https://te.legra.ph/file/515621a5a4c298fda3263.jpg' width='950"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘+𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+%E2%9C%8C">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=720&lines=𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘+𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+%E2%9C%8C">
 </p> 
 
 ## 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
