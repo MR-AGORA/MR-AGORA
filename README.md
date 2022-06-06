@@ -10,16 +10,6 @@
 
 
 
-## Github Stats
-![MR AGORA's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-AGORA&show_icons=true&theme=synthwave) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-AGORA&layout=compact&show_icons=true&theme=synthwave)
-
-
-# Activity Graph
-
-
-![MR AGORA's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=MR-AGORA&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
-
 - 𝗡𝗔𝗠𝗘 = "[𝗠𝗥 𝗔𝗚𝗢𝗥𝗔{👨‍🏫}](https:/.t.me/mr_stonedLegend)" ( 𝑀𝑟.𝐾𝑎𝑛𝑛𝑎𝑑𝑖𝑔𝑎 )
 
 - 𝗢𝗖𝗖𝗨𝗣𝗔𝗧𝗜𝗢𝗡 = "𝟯𝗗 𝗖𝗔𝗥𝗧𝗢𝗢𝗡 𝗔𝗥𝗧𝗜𝗦𝗧 𝗔𝗡𝗗 𝗙𝗜𝗟𝗠 𝗠𝗔𝗞𝗘𝗥"
