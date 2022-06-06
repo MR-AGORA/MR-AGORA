@@ -4,7 +4,7 @@
 <p align='Middle'><a href='https://t.me/Mr_Agora'><img src='https://te.legra.ph/file/b8d01bd983366de89980f.jpg' width='950"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝗔+𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗙𝗥𝗢𝗠+𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔%E2%9C%8C%EF%B8%8F;𝗞𝗢𝗜%2C+𝗔𝗡𝗗𝗥𝗔%2C+𝗞𝗢𝗗𝗟𝗜%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝗔+𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘+𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+%E2%9C%8C%EF%B8%8F;𝗞𝗢𝗜%2C+𝗔𝗡𝗗𝗥𝗔%2C+𝗞𝗢𝗗𝗟𝗜%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
