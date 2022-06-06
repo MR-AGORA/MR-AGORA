@@ -21,33 +21,6 @@
 
 <h1> <img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
-```python3
-class MR-AGORA():
-    def __init__(self):
-        self.name = ['MR-AGORA]
-        self.country = ['India']
-        self.language = ['Kannada,Hindi,English']
-    def programming_languages(self):
-        return [
-            'Python', 'SQL'
-        ]
-    def markup_languages(self):
-        return [
-            'HTML', 'CSS'
-        ]
-    def developer_tools(self):
-        return [
-            'GitHub', 'Stack Overflow', 'Docker','Heroku',
-            'MongoDB', 'MySQL', 'Azure'
-        ]
-    def operating_system(self):
-        return [
-            'Windows', 'Android'
-        ]
-    def windows_os(self):
-        return [
-            'Windows 11', 'Windows 10', 'Windows 8.1', 'Windows 7', 'Windows XP'
-        ]
  ```
 <h1> <img src = "https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/analytics.webp" width="57px"> ᴀɢᴏʀᴀ's ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
