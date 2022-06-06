@@ -1,7 +1,7 @@
 
 <h2 align="center"><b> ⠐𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ⠐ </b></h2>
 
-<p align='Middle'><a href='https://t.me/Mr_Agora'><img src='https://te.legra.ph/file/e8b9e9c08b49a1a3de222.mp4' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/Mr_Agora'><vid src='https://te.legra.ph/file/e8b9e9c08b49a1a3de222.mp4' width='750"'></a></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝗔+𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗙𝗥𝗢𝗠+𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔%E2%9C%8C%EF%B8%8F;𝗞𝗢𝗜%2C+𝗔𝗡𝗗𝗥𝗔%2C+𝗞𝗢𝗗𝗟𝗜%E2%9D%A4%EF%B8%8F">
