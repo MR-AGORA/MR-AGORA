@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F38247&width=490&lines=𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟+𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡%E2%9C%8C">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F888247&width=490&lines=𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟+𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡%E2%9C%8C">
 </p> 
 
 <p align='Middle'><a href='https://t.me/Mr_Agora'><img src='https://te.legra.ph/file/515621a5a4c298fda3263.jpg' width='950"'></a></p>
