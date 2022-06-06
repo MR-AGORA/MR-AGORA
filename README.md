@@ -4,13 +4,13 @@
 <p align='Middle'><a href='https://t.me/Mr_Agora'><img src='https://te.legra.ph/file/37a5b811ec294ac963c87.jpg' width='750"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝗔+𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗙𝗥𝗢𝗠+𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝗔+𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗙𝗥𝗢𝗠+𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔%E2%9C%8C%EF%B8%8F;𝗞𝗢𝗜%2C+𝗔𝗡𝗗𝗥𝗔%2C+𝗞𝗢𝗗𝗟𝗜%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
 
 
-- 𝗡𝗔𝗠𝗘 = "[𝗠𝗥 𝗔𝗚𝗢𝗥𝗔{👨‍🏫}](https:/.t.me/mr_stonedLegend)" ( 𝑀𝑟.𝐾𝑎𝑛𝑛𝑎𝑑𝑖𝑔𝑎 )
+- 𝗡𝗔𝗠𝗘 = "[𝗠𝗥 𝗔𝗚𝗢𝗥𝗔{👨‍🏫}](https:/.t.me/mr_AGORA)" ( 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 )
 
 - 𝗢𝗖𝗖𝗨𝗣𝗔𝗧𝗜𝗢𝗡 = "𝟯𝗗 𝗖𝗔𝗥𝗧𝗢𝗢𝗡 𝗔𝗥𝗧𝗜𝗦𝗧 𝗔𝗡𝗗 𝗙𝗜𝗟𝗠 𝗠𝗔𝗞𝗘𝗥"
 
