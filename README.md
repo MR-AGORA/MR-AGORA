@@ -26,7 +26,7 @@ class MR-AGORA():
     def __init__(self):
         self.name = ['MR-AGORA]
         self.country = ['India']
-        self.language = ['हिंदी', 'English']
+        self.language = ['Kannada,Hindi,English']
     def programming_languages(self):
         return [
             'Python', 'SQL'
