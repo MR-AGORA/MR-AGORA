@@ -17,10 +17,9 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/MR-AGORA/count.svg" />
 </p>
 
-[<img
-      src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/hr.gif"/>](https://github.com/MR-AGORA)
+[<img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/hr.gif"/>](https://github.com/MR-AGORA)
 
-<h1> <img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class MR-AGORA():
