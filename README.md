@@ -40,12 +40,3 @@
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="MR-AGORA Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
-
-m
-m 
-m
- 
-"/>
-  m
-m
-l
