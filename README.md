@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘+𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+%E2%9C%8C">
 </p> 
-<br>
 
 ## 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 ![MR AGORA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-AGORA&show_icons=true&theme=synthwave) &nbsp;
