@@ -35,14 +35,14 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=MR-AGORA)
   
 <a href="https://github-readme-stats.vercel.app/api?username=MR-AGORA&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=MR-AGORA&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+    <img width="60%" align="center" alt="𝗠𝗬 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦" src="https://github-readme-stats.vercel.app/api?username=MR-AGORA&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
 </a>
 </b></h2>  
 </details>
 
 <details>
-<summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠂</summary>
+<summary>⠂𝗠𝗢𝗦𝗧 𝗨𝗦𝗘𝗗 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦⠂</summary>
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-<summary>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐</summary>
+<summary>𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦 𝗠𝗘⠐</summary>
 <h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
   <br>
   <br>
@@ -65,16 +65,16 @@
 
 
 <details>
-<summary>⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐</summary>
-<h2 align="center"><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
+<summary>⠂𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 ⠐</summary>
+<h2 align="center"><b> ⠂𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗔𝗖𝗖𝗢𝗨𝗡𝗧𝗦⠐
   <br>
   <br>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Mr_AgoraMahrshi) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Mr_Agora) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mr_agoramahrshi) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mr_agoraswamy)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@MR-AGORA)</b></h2> 
 </details>
 <details>
-<summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
-<h2 align="center"><b>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐
+<summary>⠂𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗔𝗡𝗗 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗟𝗢𝗩𝗘⠐</summary>
+<h2 align="center"><b>⠂𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗔𝗡𝗗 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗟𝗢𝗩𝗘⠐
   <br>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
