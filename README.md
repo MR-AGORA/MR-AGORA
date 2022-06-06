@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝗔+𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗙𝗥𝗢𝗠+𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔%E2%9C%8C%EF%B8%8F;𝗞𝗢𝗜%2C+𝗔𝗡𝗗𝗥𝗔%2C+𝗞𝗢𝗗𝗟𝗜%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
+
 ## Github Stats
 ![MR AGORA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-AGORA&show_icons=true&theme=synthwave) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-AGORA&layout=compact&show_icons=true&theme=synthwave)
