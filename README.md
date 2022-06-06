@@ -9,6 +9,10 @@
 <br>
 
 
+## Github Stats
+![MR AGORA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-AGORA&show_icons=true&theme=synthwave) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-AGORA&layout=compact&show_icons=true&theme=synthwave)
+
 
 - 𝗡𝗔𝗠𝗘 = "[𝗠𝗥 𝗔𝗚𝗢𝗥𝗔{👨‍🏫}](https:/.t.me/mr_AGORA)" ( 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 )
 
