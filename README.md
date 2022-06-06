@@ -4,7 +4,7 @@
 <p align='Middle'><a href='https://t.me/Mr_Agora'><img src='https://te.legra.ph/file/515621a5a4c298fda3263.jpg' width='950"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=720&lines=𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔'𝗦 𝗙𝗜𝗥𝗦𝗧 𝗕𝗢𝗧 𝗖𝗥𝗘𝗔𝗧𝗢𝗥%E2%9C%8C">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=720&lines=𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔'𝗦+𝗙𝗜𝗥𝗦𝗧+𝗕𝗢𝗧+𝗖𝗥𝗘𝗔𝗧𝗢𝗥%E2%9C%8C">
 </p> 
 
 ## 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
