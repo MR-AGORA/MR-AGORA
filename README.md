@@ -22,8 +22,8 @@
 - 𝗖𝗢𝗨𝗡𝗧𝗥𝗬 = "🇮🇳" 𝗕𝗘𝗟𝗔𝗚𝗔𝗩𝗜 , 𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔
 
 <details>
-<summary>⠂𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 ⠂</summary>
-<h2 align="center"><b>⠂𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦⠐
+<summary>•𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 •</summary>
+<h2 align="center"><b>•𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦•
 <br>
 <br>
   
@@ -53,7 +53,7 @@
 
 <details>
 <summary>•𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦 𝗠𝗘•</summary>
-<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
+<h2 align="center"><b>•𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎•
   <br>
   <br>
   
@@ -64,15 +64,15 @@
 
 
 <details>
-<summary>⠂𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 ⠐</summary>
-<h2 align="center"><b> ⠂𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗔𝗖𝗖𝗢𝗨𝗡𝗧𝗦⠐
+<summary>•𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 •</summary>
+<h2 align="center"><b> •𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗔𝗖𝗖𝗢𝗨𝗡𝗧𝗦•
   <br>
   <br>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Mr_AgoraMahrshi) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Mr_Agora) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mr_agoramahrshi) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mr_agoraswamy)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@MR-AGORA)</b></h2> 
 </details>
 <details>
-<summary>⠂𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗔𝗡𝗗 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗟𝗢𝗩𝗘⠐</summary>
+<summary>•𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗔𝗡𝗗 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗟𝗢𝗩𝗘•</summary>
 <h2 align="center"><b>⠂𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗔𝗡𝗗 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗟𝗢𝗩𝗘⠐
   <br>
   <br>
