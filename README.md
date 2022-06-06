@@ -59,9 +59,8 @@ class MR-AGORA():
 <h1> <img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
  [<img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/telegram_icon.png" width="60px">](https://t.me/MR-AGORA_was_bot) [<img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/github_icon.png" width="60px">](https://github.com/MR-AGORA) [<img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/discord_logo.png" width="60px">](https://discordapp.com/users/) [<img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/KingTech1025)
-
-[<img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/hr.gif"/>](https://github.com/MR-AGORA)
-
+ 
+[<img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousR1025)
 <h1> <img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="MR-AGORA Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
