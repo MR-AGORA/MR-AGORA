@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=MR_AGORA&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=MR-AGORA&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 ## <p align="center"> ನನ್ನ ಗಿಟ್ಹಬ್ ಗೆ ನಿಮಗೆ ಹೃತ್ಪೂರ್ವಕ ಸ್ವಾಗತ </a></p> 
