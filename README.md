@@ -22,8 +22,8 @@
 </p> 
 
 ## 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-![MR AGORA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeamAgora&show_icons=true&theme=synthwave) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-AGORA&layout=compact&show_icons=true&theme=synthwave)
+![MR AGORA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=PROFESSORAGORA&show_icons=true&theme=synthwave) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PROFESSORAGORA&layout=compact&show_icons=true&theme=synthwave)
 
 <h1> <img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/codes.webp" width="70px"> 𝗛𝗘𝗬 𝗜𝗧𝗦 𝗠𝗘 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 𝗫𝗗 </h1>
 <p align="center">
