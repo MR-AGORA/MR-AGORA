@@ -11,7 +11,7 @@
 
 ## 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 ![MR AGORA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-AGORA&show_icons=true&theme=synthwave) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-AGORA&layout=compact&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAMILVIP007&layout=compact&show_icons=true&theme=synthwave)
 
 <h1> <img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍʀ ᴀɢᴏʀᴀ </h1>
 <p align="center">
