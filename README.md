@@ -28,7 +28,7 @@
 <h1> <img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/codes.webp" width="70px"> 𝗛𝗘𝗬 𝗜𝗧𝗦 𝗠𝗘 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 𝗫𝗗 </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/paulmillr/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/michalbe/count.svg" />
 </p>
 
 [<img src="https://github.com/MR-AGORA/MR-AGORA/blob/master/resources/hr.gif"/>](https://github.com/MR-AGORA)
